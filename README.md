@@ -6,4 +6,4 @@
   <li>Polybius Cipher</li>
 
 ### Bash Programs
-  <li>File Integrity Checker</li>
+<ul><li>File Integrity Checker</li></ul>
